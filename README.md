@@ -18,7 +18,7 @@ blah blah blah
 
 
 ### Picture/Diagram
-<img src="CircuitPython/Pictures/ledfade2.png" width="400px"/>
+<img src="https://github.com/Helmstk1/EngineeringNotebook_Eng1/blob/master/images/metroid.PNG?raw=true" width="400px"/>
 
 
 #### Evidence
